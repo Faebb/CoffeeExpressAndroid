@@ -1,10 +1,8 @@
-<?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="purple_200">#FFBB86FC</color>
-    <color name="purple_500">#FF6200EE</color>
-    <color name="purple_700">#FF3700B3</color>
-    <color name="teal_200">#FF03DAC5</color>
-    <color name="teal_700">#FF018786</color>
-    <color name="black">#FF000000</color>
-    <color name="white">#FFFFFFFF</color>
+    <color name="your_primary_color">#FFFFFF</color> <!-- Cambia esto al color que prefieras -->
+    <color name="your_primary_variant_color">#000000</color> <!-- Cambia esto al color que prefieras -->
+    <color name="your_secondary_color">#FF4081</color> <!-- Cambia esto al color que prefieras -->
+    <color name="your_secondary_variant_color">#C2185B</color> <!-- Cambia esto al color que prefieras -->
+    <color name="white">#FFFFFF</color> <!-- Color blanco -->
+    <color name="black">#000000</color> <!-- Color negro -->
 </resources>
