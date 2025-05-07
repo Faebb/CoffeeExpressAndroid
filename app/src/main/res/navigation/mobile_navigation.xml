@@ -28,4 +28,5 @@
         android:name="com.example.coffeeexpressandroid.ui.slideshow.SlideshowFragment"
         android:label="@string/menu_slideshow"
         tools:layout="@layout/fragment_slideshow" />
+
 </navigation>

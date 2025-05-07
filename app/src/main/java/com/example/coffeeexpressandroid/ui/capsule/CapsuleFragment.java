@@ -22,7 +22,7 @@ private FragmentCapsuleBinding binding;
         binding = FragmentCapsuleBinding.inflate(inflater, container, false);
         View root = binding.getRoot();
 
-        final TextView textView = binding.textView7;
+        final TextView textView = binding.textView12;
         capsulesViewModel.getText().observe(getViewLifecycleOwner(), textView::setText);
         return root;
     }
